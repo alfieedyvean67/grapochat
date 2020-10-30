@@ -1,0 +1,6 @@
+{
+  "name": "GrapoChat",
+  "description": "A chatting app using node.js and express",
+  "repository": "https://github.com/alfieedyvean67/grapochat",
+  "keywords": ["node", "express", "static", "chat", "grapo"]
+}
